@@ -1,0 +1,236 @@
+/*
+Template Name: Piece of Cake
+Color style: Sweet
+*/
+
+/*________ Pink ________  */
+
+.loader span,
+.btn-primary,
+.navbar-custom ul.nav ul.dropdown-menu,
+.label-default,
+.list-group-item,
+
+
+.pager li > a,
+.pager li > span,
+.pagination > li > a:hover,
+.pagination > li > a:focus,
+.pagination > .active > a,
+.pagination > .active > a:focus,
+.pagination > .active > a:hover,
+.pagination > .active > span,
+.pagination > .active > span:focus,
+.pagination > .active > span:hover,
+
+.nav-pills > li.active > a,
+.nav-pills > li > a:hover,
+.nav-pills > li.active > a,
+.nav-pills > li.active > a:focus,
+.nav-pills > li.active > a:hover,
+.nav-pills.nav > li > a:focus,
+.social-media i:after,
+.object-load,
+.blog-tags a {
+  background-color: #d0324b;
+}
+
+.back-to-top i,#menu h3,.testimonial .testimonial-pic:after,.owl-prev:hover,
+.owl-next:hover,.owl-theme .owl-dots .owl-dot.active span,
+.owl-theme .owl-dots .owl-dot:hover span,.btn {
+  background-color: #e94d40;
+}
+
+.navbar {
+  background: #0c243c !important;
+}
+
+
+.social-media i:hover,
+.social-media i:after,
+.back-to-top i:hover,
+.post-comment a:hover {
+  color: #d0324b;
+}
+
+#contact i,.menu-item-name,a,
+#about .media i {
+  color: #e94d40;
+}
+
+.navbar-custom ul.nav li a:hover,
+.navbar-custom .nav > .active > a {
+  color: #fff;
+}
+.btn-line,
+h3 {
+  color: #e94d40;
+}
+
+.gallery-thumb:hover .overlay-mask,
+.img-circle.border,
+.section-heading,
+
+.social-media i,
+.color-section .form-control{
+  border-color: #d0324b;
+}
+
+.featured-package:hover,.box_icon:hover .icon > .info{
+border-color: #e94d40;
+}
+/*________  Green ________  */
+
+a.list-group-item:focus,
+a.list-group-item:hover,
+button.list-group-item:focus,
+button.list-group-item:hover,
+.navbar-toggle,
+.nav-pills > li > a,
+.open > .dropdown-toggle.btn-primary:focus,
+.open > .dropdown-toggle.btn-primary:hover,
+.navbar-custom ul.nav ul.dropdown-menu li a,
+.nav-pills .nav > li > a:focus,
+.pager li > a:hover,
+.pager li > a:focus,
+.btn-primary:hover,
+.btn-primary:focus,
+
+.pagination > li > a,
+.pagination > li > span,
+.btn:hover,
+.btn:focus,
+.nav .open > a,
+.nav .open > a:focus,
+.nav .open > a:hover,
+.table-striped,
+.dropdown-menu,
+.tab-content,
+.nav.nav-tabs > li > a:hover,
+.nav.nav-tabs > li.active > a:hover,
+.nav.nav-tabs > li.active > a:focus,
+.nav.nav-tabs > li.active > a,
+.list-group-item.active,
+.list-group-item.active:focus,
+.list-group-item.active:hover {
+  background-color: #2dbba4;
+}
+
+/* .btn:hover,.btn:focus{
+background-color: #0C243C;
+} */
+.page-title,.nav.nav-tabs > li.active > a:hover,
+.nav.nav-tabs > li.active > a:focus,
+.nav.nav-tabs > li > a:hover,
+.nav.nav-tabs > li.active > a,
+.post-comment,
+.box,
+.color-section {
+  background-color: #0c243c;
+}
+.owl-prev,
+.owl-next {
+  background-color: #0c243c;
+}
+h1 {
+  color: #0c243c;
+}
+
+#about .media i:hover,
+footer i,
+.post-info i,
+.gallery-thumb i:hover,
+a:hover,
+a:focus,
+h6:before,
+.hr:before,
+.hr,
+.post-slide .post-title > a:hover,
+
+ul.social-list li a,
+blockquote:before,
+.box_icon > .icon > .image,
+.panel-heading a:hover,
+.panel-heading a:focus,
+.panel-heading a.active,
+.panel-heading a {
+  color: #2dbba4;
+}
+
+.package li::before,.package-price,.tr:before,
+.tr {
+  color: #0c243c;
+}
+
+
+.team-member .profile-image,
+.btn:hover,
+.btn:focus,
+.header-text,
+.navbar,
+.open > .dropdown-toggle.btn-default:focus,
+.open > .dropdown-toggle.btn-default:hover,
+
+.textarea-field:focus,
+.input-field:focus,
+.featured-package,
+.navbar-custom ul.nav li a:hover,
+.navbar-custom .nav > .active > a,
+.color-section h2
+ {
+  border-color: #2dbba4;
+}
+
+.slider-pagi__elem {
+  border-color: #fff;
+}
+.tab-content{
+    border-color: #0c243c;
+}
+.form-control,
+.form-control:focus{
+  border-color: #0C243C;
+}
+/*________  Light Yellow ________  */
+
+.color-section2,
+.tab-content,
+.panel-group,
+.post-slide,
+.navbar-custom ul.nav ul.dropdown-menu li a:hover,
+.textarea-field:focus,
+.input-field:focus,
+.back-to-top i:hover,
+.well,
+.featured-package,
+.package:hover,
+.box_icon > .icon > .info,
+#loading {
+  background-color: #fdf5e7;
+}
+.navbar-custom ul.nav li a:hover,
+.navbar-custom .nav > .active > a {
+  background: #e94d40;
+}
+
+.breadcrumb > .active,
+.breadcrumb a:hover,
+.breadcrumb a:focus,
+.color-section .hr,
+.color-section .hr:before,
+.testimonial .testimonial-title,
+.color-section a:hover {
+  color: #fdf5e7;
+}
+
+h2,
+.well,
+.table > tbody > tr > td,
+.table > tbody > tr > th,
+.table > tfoot > tr > td,
+.table > tfoot > tr > th,
+.table > thead > tr > td,
+.table > thead > tr > th,
+.comment {
+  border-color: #fdf5e7;
+}
